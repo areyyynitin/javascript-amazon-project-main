@@ -90,7 +90,7 @@ cart.forEach((cartItem) => {
         </div>
     </div>
 </div>
-    `;
+    `; 
 });
 
 document.querySelector('.jsOrderSummary').innerHTML = cartSummaryHTML
